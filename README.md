@@ -1,4 +1,4 @@
-# Licensecheck
+ # Licensecheck
 
 The `licensecheck` package scans source texts for known licenses.
 The design aims never to give a false positive.
